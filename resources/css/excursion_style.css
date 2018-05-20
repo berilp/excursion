@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family: "Verdana";
   background-color: black;
@@ -72,3 +73,79 @@ h6 {
   text-align: right;
   font-weight: normal;
 }
+=======
+body {
+  font-family: "Verdana";
+  background-color: black;
+  text-align: center;
+  display: block;
+}
+
+h1 {
+  font-family: "Verdana";
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  background-color: black;
+}
+
+h2 {
+  font-family: "Verdana";
+  color: aquamarine;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+
+h3 {
+  font-family: "Verdana";
+  color: white;
+  text-align: center;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  font-family: "Verdana";
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+h4 {
+  font-family: "Verdana";
+  color: white;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 300;
+}
+
+h5 {
+  font-family: "Verdana";
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+
+h6 {
+  font-family: "Verdana";
+  color: gray;
+  font-size: 18px;
+  text-align: right;
+  font-weight: normal;
+}
+>>>>>>> e4474b89bbd5e019bef1154a70c7edd589a696c2
